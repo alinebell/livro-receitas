@@ -4,3 +4,5 @@ Olá!
 
 Bem vindo ao meu livro de Receitas :call_me_hand:
 
+* Bolo de chocolate
+* Frango xadrez
